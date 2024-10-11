@@ -1,0 +1,12 @@
+[package]
+name = "tab-prediction-next-action"
+version = "0.1.0"
+publish = false
+edition = "2021"
+
+[lib]
+path = "src/tab-prediction-next-action.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+zed_extension_api = "0.0.6"

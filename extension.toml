@@ -1,0 +1,9 @@
+id = "tab-prediction-next-action"
+name = "tab prediction next action"
+version = "0.0.4"
+schema_version = 1
+authors = ["Adnan Wahab <adnan.f.wahab@gmail.com>"]
+description = "Tab Prediction for Next Action is a Zed extension that predicts the next action based on the current context, enhancing your coding experience."
+repository = "https://github.com/adnanwahab/zed-tab-prediction-next-action"
+
+features = "codebase indexing, llama-integration, gpui extensions 
